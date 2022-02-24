@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "uname": "Mithlesh",
+      "uemail": "mithlesg12@gmail.com",
+      "upassword": "mithlesh123",
+      "uage": "23",
+      "uphone": "7896541230",
+      "ucity": "pune",
+      "ucountry": "India",
+      "id": 1
+    }
+  ],
+  "post": [
+    {
+      "about": "ggddgdgdgdgdgdgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+      "crimedate": "2021-12-08",
+      "crimetime": "19:37",
+      "location": "puuuunnnnnneeeeee",
+      "cimage": [],
+      "id": 1
+    },
+    {
+      "about": "ggddgdgdgdgdgdgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+      "crimedate": "2021-12-08",
+      "crimetime": "19:37",
+      "location": "puuuunnnnnneeeeee",
+      "cimage": [],
+      "id": 2
+    }
+  ]
+}
